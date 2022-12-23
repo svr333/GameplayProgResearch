@@ -1,2 +1,2 @@
-# GameplayProgResearch
-(school) The GitHub repository for my research topic for the Gameplay Programming course
+# Jump Point Search (Gameplay Programming Research)
+https://en.wikipedia.org/wiki/Jump_point_search
